@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>BestDeal</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body onload = "init()">
+	<!-- Start #logo top content of the webpage-->
+	<div id="logo">
+		<table style="float: left">
+			<tr>
+				<td style="valign: top;"><img src="images/site/best-deal.png" alt=""
+					style="height: 80px" /></td>
+				<td><h1>
+						<a href="#">BestDeal</a>
+					</h1></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><p>
+						<em>Greatest Electronics Deals Ever!</em>
+					</p></td>
+			</tr>
+		</table>
+		<div style="float: right; width: 30%; margin-top: 35px; border: 1px solid blue; padding: 5px; padding-right: 15px">
+			<em style="color: blue;">Search Product:</em>
+			<script type="text/javascript" src="autocomplete.js"></script>
+			<div name="autofillform">
+				<input type="text" name="complete-field" value="" class="input"
+					id="complete-field" onkeyup="doCompletion()" size="35" 
+					placeholder="search here.." style="padding: 5px; font-size: 16px;" />
+				<div id="auto-row">
+					<table id="complete-table" class="gridtable"
+						style="position: absolute; width: 315px;"></table>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+	<hr />
+	<!-- end #logo -->
+	<!-- start #header -->
+	<!-- menu in header area the header div ends in utility file where header content right side link gets populated with login id cart and logout option -->
+	<div id="header">
+		<div id="menu">
+			<ul>
+				<li><a href="Home" class="first">Home</a></li>
+				<li><a href="SmartPhoneList">Smart Phones</a></li>
+				<li><a href="LaptopList">Laptops</a></li>
+				<li><a href="TabletList">Tablets</a></li>
+				<li><a href="TVList">TVs</a></li>
+				<li><a href="TrendingPage">Trending</a></li>
+			</ul>
+		</div>	
+		<!-- end #menu -->
+		
+				

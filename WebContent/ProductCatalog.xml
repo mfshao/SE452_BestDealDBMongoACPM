@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<SmartPhoneCatalog>
+    <smartphone id="phone1">
+        <name>Apple iPhone 7 Plus</name>
+        <price>869.99</price>
+        <image>iphone7-plus.png</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <item>usb_charger</item>
+        </accessories>
+    </smartphone>
+    <smartphone id="phone2">
+        <name>Samsung Galaxy S8+</name>
+        <price>849.99</price>
+        <image>s8-plus.png</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <item>usb_charger</item>
+        </accessories>
+    </smartphone>
+    <smartphone id="phone3">
+        <name>Sony Xperia XZs</name>
+        <price>699.00</price>
+        <image>xperia-xzs.png</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <item>usb_charger</item>
+        </accessories>
+    </smartphone>
+    <smartphone id="phone4">
+        <name>LG G5 H820</name>
+        <price>649.99</price>
+        <image>lg-g5.png</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <item>usb_charger</item>
+        </accessories>
+    </smartphone>
+    <smartphone id="phone5">
+        <name>Huawei Mate 9</name>
+        <price>599.99</price>
+        <image>mate-9.png</image>
+        <manufacturer>Huawei</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <item>usb_charger</item>
+        </accessories>
+    </smartphone>
+</SmartPhoneCatalog>
+
+<TabletCatalog>
+    <tablet id="tablet1">
+        <name>Microsoft Surface Pro 4</name>
+        <price>1399.00</price>
+        <image>surface-pro-4.png</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="tablet2">
+        <name>Apple 9.7" iPad Pro</name>
+        <price>679.00</price>
+        <image>ipad-pro.png</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <item>usb_charger</item>
+        </accessories>
+    </tablet>
+    <tablet id="tablet3">
+        <name>Samsung Galaxy Tab S3</name>
+        <price>299.99</price>
+        <image>galaxy-tab-s3.png</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <accessories>
+            <item>usb_charger</item>
+        </accessories>
+    </tablet>
+    <tablet id="tablet4">
+        <name>Lenovo Yoga Tab 3 Pro</name>
+        <price>499.99</price>
+        <image>yoga-tab-3-pro.png</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="tablet5">
+        <name>Huawei 12" MateBook</name>
+        <price>499.00</price>
+        <image>matebook.png</image>
+        <manufacturer>Huawei</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <accessories>
+            <item>usb_charger</item>
+        </accessories>
+    </tablet>
+</TabletCatalog>
+
+<LaptopCatalog>
+<laptop id="laptop1">
+        <name>Apple 15.4" MacBook Pro with Touch Bar</name>
+        <price>2699.00</price>
+        <image>macbook-pro.png</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="laptop2">
+        <name>Lenovo 15.6" Ideapad 310</name>
+        <price>499.00</price>
+        <image>ideapad-310.png</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="laptop3">
+        <name>Dell 15.6" Inspiron 15 7000 Gaming Series</name>
+        <price>1099.00</price>
+        <image>inspiron-15-7000.jpg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="laptop4">
+        <name>Acer 15.6" Aspire E5-575-521W</name>
+        <price>529.00</price>
+        <image>aspire-e5-575.png</image>
+        <manufacturer>Acer</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="laptop5">
+        <name>ASUS 13.3" ZenBook UX301LA</name>
+        <price>999.00</price>
+        <image>zenBook-ux301la.png</image>
+        <manufacturer>ASUS</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+</LaptopCatalog>
+
+<TVCatalog>
+    <tv id="tv1">
+        <name>Samsung 40" Class</name>
+        <price>397.99</price>
+        <image>ks8000-series.png</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </tv>
+    <tv id="tv2">
+        <name>LG 50" Class</name>
+        <price>1097.00</price>
+        <image>uh6150-series.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </tv>
+    <tv id="tv3">
+        <name>VIZIO 48" Class</name>
+        <price>498.00</price>
+        <image>p-series.png</image>
+        <manufacturer>VIZIO</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </tv>
+    <tv id="tv4">
+        <name>Sony 49" Class</name>
+        <price>1198.00</price>
+        <image>x850d-series.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </tv>
+    <tv id="tv5">
+        <name>Toshiba 55" Class</name>
+        <price>549.99</price>
+        <image>h8d-series.png</image>
+        <manufacturer>Toshiba</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </tv>
+</TVCatalog>
+
+<AccessoryCatalog>
+    <accessory id="accessory1">
+        <name>UBP USB Portable Charger</name>
+        <price>12.99</price>
+        <image>usb_charger.jpg</image>
+        <manufacturer>UBP</manufacturer>
+        <condition>New</condition>
+        <discount>0.0</discount>
+     </accessory>
+</AccessoryCatalog>
+
+</ProductCatalog>
