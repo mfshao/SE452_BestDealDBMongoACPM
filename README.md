@@ -1,5 +1,5 @@
 ## Description
-Extend BestDealDBMongoAC in order to allow the customer to support the following features/functionalities:
+Extend BestDealDBMongoAC in order to support the following features/functionalities:
 1. Deal Match
 
 ## Installation, Compliation and Execution
